@@ -51,7 +51,7 @@ def get_filters():
 
     print(f"\nYou have chosen {month.title()} as your month.")
 
-    #Creating a list to store all the days including the 'all' option
+    #Create a list to store all days including 'all' days
     DAY_LIST = ['all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
     day = ''
     while day not in DAY_LIST:
