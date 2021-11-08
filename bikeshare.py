@@ -37,7 +37,7 @@ def get_filters():
     print(f"\nYou have chosen {city.title()} as your city.")
 
     #Creating a dictionary to store all the months including the 'all' option
-    MONTH_DATA = {'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6, 'all': 7}
+    MONTH_DATA = {'january': 1, 'february': 2, 'march': 3, 'april': 4, 'may': 5, 'june': 6, 'allMonth': 7}
     month = ''
     while month not in MONTH_DATA.keys():
         print("\nPlease enter the month, between January to June, for which you're seeking the data:")
