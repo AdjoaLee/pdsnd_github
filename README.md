@@ -6,10 +6,11 @@ This project was created on November 7, 2021
 This is the bikeshare project 
 
 ### Description
-Describe what your project is about and what it does
-
+This project is to explore US bikeshare data
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
